@@ -99,7 +99,7 @@ def game_loop(data_list, score):
                 print(f"Chữ {guess}, có {foundCount} chữ {guess}!\n")
             elif found == False:
                 lives -= 1
-                responses = ['Hổng có', 'Ko thấy', 'Đoán sai rồi', 'Không có', 'Gà', 'Hông có', 'Hông thấy']
+                responses = ['Hổng có', 'Ko thấy', 'Đoán sai rồi', 'Không có', 'Gà', 'Hông có', 'Ối dồi ôi!']
                 print(responses[randint(0,len(responses)-1)] + "\n")
                 
             # Update player UI
@@ -114,7 +114,7 @@ def game_loop(data_list, score):
             
             if lives == 0:
                 score -= 1
-                responses = ["Toang hẳn :'(", 'Còn cái nịt!', 'Feed ít thôi', 'Report..', 'Con gà']
+                responses = ["Toang hẳn :'(", 'Còn cái nịt!', 'Feed ít thôi', 'Report ngay và luôn..', 'Con gà', 'Ối dồi ôi!!']
                 print(responses[randint(0,len(responses)-1)] + "\n")
                 game_state = 'end'
             elif word_list == guess_list:
