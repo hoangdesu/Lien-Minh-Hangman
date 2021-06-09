@@ -252,11 +252,11 @@
     {
         "name": "Elise",
         "abilities": [
-            "Phun Độc \\u002F Cắn Độc",
-            "Nhền Nhện Con \\u002F Cắn Xé",
-            "Kén Nhện \\u002F Đánh Đu",
+            "Phun Độc / Cắn Độc",
+            "Nhền Nhện Con / Cắn Xé",
+            "Kén Nhện / Đánh Đu",
             "Nhện Chúa",
-            "passive:{name:"
+            "Lỗi API. Game khác"
         ]
     },
     {
@@ -304,7 +304,7 @@
         "abilities": [
             "Đâm Lao",
             "Đinh Ba Hải Thạch",
-            "Tung Tăng \\u002F Nhảy Múa",
+            "Tung Tăng / Nhảy Múa",
             "Triệu Hồi Thủy Quái",
             "Chiến Binh Lanh Lợi"
         ]
@@ -342,9 +342,9 @@
     {
         "name": "Gnar",
         "abilities": [
-            "Ném Boomerang \\u002F Ném Đá",
-            "Quá Khích \\u002F Đập Phá",
-            "Nhún Nhảy \\u002F Nghiền Nát",
+            "Ném Boomerang / Ném Đá",
+            "Quá Khích / Đập Phá",
+            "Nhún Nhảy / Nghiền Nát",
             "GNAR!",
             "Đột Biến Gien"
         ]
@@ -462,10 +462,10 @@
     {
         "name": "Jayce",
         "abilities": [
-            "Chỉ Thiên! \\u002F Cầu Sấm",
-            "Sấm Chớp Rền Vang \\u002F Tích Tụ",
-            "Lôi Phạt \\u002F Cổng Tăng Tốc",
-            "Pháo Thủy Ngân \\u002F Búa Thủy Ngân",
+            "Chỉ Thiên! / Cầu Sấm",
+            "Sấm Chớp Rền Vang / Tích Tụ",
+            "Lôi Phạt / Cổng Tăng Tốc",
+            "Pháo Thủy Ngân / Búa Thủy Ngân",
             "Tụ Điện Hextech"
         ]
     },
@@ -632,9 +632,9 @@
     {
         "name": "LeeSin",
         "abilities": [
-            "Sóng Âm \\u002F Vô Ảnh Cước",
-            "Hộ Thể \\u002F Kiên Định",
-            "Địa Chấn \\u002F Dư Chấn",
+            "Sóng Âm / Vô Ảnh Cước",
+            "Hộ Thể / Kiên Định",
+            "Địa Chấn / Dư Chấn",
             "Nộ Long Cước",
             "Loạn Đả"
         ]
@@ -750,7 +750,7 @@
         ]
     },
     {
-        "name": "MonkeyKing",
+        "name": "Ngo Khong",
         "abilities": [
             "Thiết Bảng Ngàn Cân",
             "Chiến Binh Tinh Quái",
@@ -822,9 +822,9 @@
     {
         "name": "Nidalee",
         "abilities": [
-            "Phóng Lao \\u002F Cắn Xé",
-            "Bẫy Rập \\u002F Vồ",
-            "Sức Mạnh Hoang Dã \\u002F Vả",
+            "Phóng Lao / Cắn Xé",
+            "Bẫy Rập / Vồ",
+            "Sức Mạnh Hoang Dã / Vả",
             "Lốt Báo",
             "Rình Rập"
         ]
@@ -912,7 +912,7 @@
     {
         "name": "Qiyana",
         "abilities": [
-            "Nguyên Tố Thịnh Nộ \\u002F Nhát Chém Nguyên Tố",
+            "Nguyên Tố Thịnh Nộ / Nhát Chém Nguyên Tố",
             "Mượn Lực Địa Hình",
             "Táo Bạo",
             "Thế Giới Bùng Nổ",
@@ -952,9 +952,9 @@
     {
         "name": "RekSai",
         "abilities": [
-            "Nữ Hoàng Phẫn Nộ \\u002F Săn Mồi",
-            "Độn Thổ \\u002F Trồi Lên",
-            "Ngồm Ngoàm Ngấu Nghiến \\u002F Đào Hầm",
+            "Nữ Hoàng Phẫn Nộ / Săn Mồi",
+            "Độn Thổ / Trồi Lên",
+            "Ngồm Ngoàm Ngấu Nghiến / Đào Hầm",
             "Tốc Hành Hư Không",
             "Cơn Thịnh Nộ Của Xer'Sai"
         ]
@@ -1036,7 +1036,7 @@
             "Mùa Đông Thịnh Nộ",
             "Băng Giá Vĩnh Cửu",
             "Nhà Ngục Băng Giá",
-            "passive:{name:"
+            "Lỗi API. Game khác"
         ]
     },
     {
@@ -1174,7 +1174,7 @@
         "abilities": [
             "Quật Xích",
             "Đồ Vương",
-            "Trốn \\u002F Bắt",
+            "Trốn / Bắt",
             "Tước Đoạt",
             "Kháng Ma Thuật"
         ]
@@ -1336,7 +1336,7 @@
             "Mũi Tên Bạc",
             "Kết Án",
             "Giờ Khắc Cuối Cùng",
-            "passive:{name:"
+            "Lỗi API. Game khác"
         ]
     },
     {
@@ -1406,7 +1406,7 @@
             "Điên Cuồng Cắn Xé",
             "Gọi Bão",
             "Lôi Thần Giáng Thế",
-            "passive:{name:"
+            "Lỗi API. Game khác"
         ]
     },
     {
@@ -1476,7 +1476,7 @@
             "Vòng Tròn Tăm Tối",
             "Màn Sương Than Khóc",
             "Khúc Ca Hắc Ám",
-            "passive:{name:"
+            "Lỗi API. Game khác"
         ]
     },
     {

@@ -133,7 +133,7 @@ def game_loop(data_list, score):
                 random_champ = data_list[randint(0, len(data_list) - 1)]
                 game_loop(data_list, score)
             elif repeat.lower() == 'gg':
-                print("GGWP!")
+                print("GGWP!\n")
                 exit()
             else:
                 print('Nhập sai rồi')

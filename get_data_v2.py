@@ -58,10 +58,17 @@ def getAbilities(champ):
     for i in range(len(champ_html)):
         line = champ_html[i]
         # print(i, line)
-        ability = {}
+        # ability = {}
         if 'name:' in line:
             ability = line[line.find("\"")+1:-1]
+            if '\\u002F' in ability:
+                ability = ability.replace('\\u002F', '/')
+            if ability == 'passive:{name:':
+                ability = 'Lỗi API. Game khác'
             abilities.append(ability)
+            
+            
+        # currently bugged
         if 'description:' in line:
             if '."' in champ_html[i+1]:
                 description = line[line.find("\"")+1:] + "," + champ_html[i+1][:-1]
@@ -93,6 +100,10 @@ def buildJson(all_champ_urls):
         champion['name'] = url[url.rfind('/')+1:]
         champion['abilities'] = getAbilities(url)
         print(champion)
+        
+        # Việt hóa Ngộ Không
+        if champion['name'] == 'MonkeyKing':
+            champion['name'] = 'Ngo Khong'
         championJson.append(champion)
     # print(championJson)
     return championJson
