@@ -1,0 +1,1552 @@
+[
+    {
+        "name": "Aatrox",
+        "abilities": [
+            "name:",
+            "Xiềng Xích Địa Ngục",
+            "Bộ Pháp Hắc Ám",
+            "Chiến Binh Tận Thế",
+            "Đường Kiếm Tuyệt Diệt"
+        ]
+    },
+    {
+        "name": "Ahri",
+        "abilities": [
+            "Quả Cầu Ma Thuật",
+            "Lửa Hồ Ly",
+            "Hôn Gió",
+            "Phi Hồ",
+            "Hút Hồn"
+        ]
+    },
+    {
+        "name": "Akali",
+        "abilities": [
+            "Phi Đao Năm Cánh",
+            "Bom Khói",
+            "Phóng Phi Tiêu",
+            "Sát Chiêu Hoàn Hảo",
+            "Dấu Ấn Sát Thủ"
+        ]
+    },
+    {
+        "name": "Alistar",
+        "abilities": [
+            "Nghiền Nát",
+            "Bò Húc",
+            "Giày Xéo",
+            "Bất Khuất",
+            "Tiếng Gầm Chiến Thắng"
+        ]
+    },
+    {
+        "name": "Amumu",
+        "abilities": [
+            "Quăng Dải Băng",
+            "Tuyệt Vọng",
+            "Giận Dữ",
+            "Lời Nguyền Xác Ướp U Sầu",
+            "Cú Đập Nguyền Rủa"
+        ]
+    },
+    {
+        "name": "Anivia",
+        "abilities": [
+            "Quả Cầu Băng",
+            "Tường Băng",
+            "Tê Cóng",
+            "Bão Tuyết",
+            "Tái Sinh"
+        ]
+    },
+    {
+        "name": "Annie",
+        "abilities": [
+            "Hỏa Cầu",
+            "Thiêu Cháy",
+            "Khiên Lửa",
+            "Triệu Hồi: Tibbers",
+            "Hỏa Cuồng"
+        ]
+    },
+    {
+        "name": "Aphelios",
+        "abilities": [
+            "Kỹ Năng Vũ Khí",
+            "Đổi",
+            "Hệ Thống Chuỗi Vũ Khí",
+            "Ánh Trăng Dẫn Lối",
+            "Sát Thủ Và Tiên Tri"
+        ]
+    },
+    {
+        "name": "Ashe",
+        "abilities": [
+            "Chú Tâm Tiễn",
+            "Tán Xạ Tiễn",
+            "Ưng Tiễn",
+            "Đại Băng Tiễn",
+            "Băng Tiễn"
+        ]
+    },
+    {
+        "name": "AurelionSol",
+        "abilities": [
+            "Tinh Vân Cầu",
+            "Khai Mở Thiên Hà",
+            "Du Hành Không Gian",
+            "Sóng Ánh Sáng",
+            "Trung Tâm Vũ Trụ"
+        ]
+    },
+    {
+        "name": "Azir",
+        "abilities": [
+            "Cát Càn Quét",
+            "Trỗi Dậy!",
+            "Cát Lưu Động",
+            "Phân Chia Thiên Hạ",
+            "Di Sản Của Shurima"
+        ]
+    },
+    {
+        "name": "Bard",
+        "abilities": [
+            "Mắt Xích Không Gian",
+            "Điện An Lạc",
+            "Hành Trình Kì Diệu",
+            "Thiên Mệnh Khả Biến",
+            "Thế Giới Mầu Nhiệm"
+        ]
+    },
+    {
+        "name": "Blitzcrank",
+        "abilities": [
+            "Bàn Tay Hỏa Tiễn",
+            "Tăng Tốc",
+            "Đấm Móc",
+            "Trường Điện Từ",
+            "Lá Chắn Năng Lượng"
+        ]
+    },
+    {
+        "name": "Brand",
+        "abilities": [
+            "Vệt Lửa",
+            "Cột Lửa",
+            "Bùng Cháy",
+            "Bão Lửa",
+            "Bỏng"
+        ]
+    },
+    {
+        "name": "Braum",
+        "abilities": [
+            "Tuyết Tê Tái",
+            "Nấp Sau Ta",
+            "Tối Kiên Cường",
+            "Băng Địa Chấn",
+            "Đánh Ngất Ngư"
+        ]
+    },
+    {
+        "name": "Caitlyn",
+        "abilities": [
+            "Bắn Xuyên Táo",
+            "Bẫy Yordle",
+            "Lưới 90",
+            "Bách Phát Bách Trúng",
+            "Thiện Xạ"
+        ]
+    },
+    {
+        "name": "Camille",
+        "abilities": [
+            "Giao Thức Chuẩn Xác",
+            "Đá Quét Chiến Thuật",
+            "Bắn Dây Móc",
+            "Tối Hậu Thư",
+            "Thích Ứng Phòng Ngự"
+        ]
+    },
+    {
+        "name": "Cassiopeia",
+        "abilities": [
+            "Vụ Nổ Độc Hại",
+            "Chướng Khí",
+            "Nanh Độc",
+            "Cái Nhìn Hóa Đá",
+            "Thần Tốc Mãng Xà"
+        ]
+    },
+    {
+        "name": "Chogath",
+        "abilities": [
+            "Rạn Nứt",
+            "Tiếng Gầm Hoang Dã",
+            "Phóng Gai",
+            "Xơi Tái",
+            "Thú Ăn Thịt"
+        ]
+    },
+    {
+        "name": "Corki",
+        "abilities": [
+            "Bom Phốt-pho",
+            "Thảm Lửa",
+            "Súng Máy",
+            "Tên Lửa Định Hướng",
+            "Đạn Hextech"
+        ]
+    },
+    {
+        "name": "Darius",
+        "abilities": [
+            "Tàn Sát",
+            "Đánh Thọt",
+            "Bắt Giữ",
+            "Máy Chém Noxus",
+            "Xuất Huyết"
+        ]
+    },
+    {
+        "name": "Diana",
+        "abilities": [
+            "Trăng Lưỡi Liềm",
+            "Thác Bạc",
+            "Trăng Non",
+            "Trăng Mờ",
+            "Gươm Ánh Trăng"
+        ]
+    },
+    {
+        "name": "Draven",
+        "abilities": [
+            "Rìu Xoay",
+            "Xung Huyết",
+            "Dạt Ra",
+            "Lốc Xoáy Tử Vong",
+            "Liên Minh Draven"
+        ]
+    },
+    {
+        "name": "DrMundo",
+        "abilities": [
+            "Cưa Nhiễm Khuẩn ",
+            "Sốc Điện Tim ",
+            "Đập Bầm Dập ",
+            "Suýt Quá Liều ",
+            "Điên Thì Cứ Đi "
+        ]
+    },
+    {
+        "name": "Ekko",
+        "abilities": [
+            "Dây Cót Thời Gian",
+            "Lưỡng Giới Đồng Quy",
+            "Biến Chuyển Pha",
+            "Đột Phá Thời Gian",
+            "Động Cơ Z Cộng Hưởng"
+        ]
+    },
+    {
+        "name": "Elise",
+        "abilities": [
+            "Phun Độc \\u002F Cắn Độc",
+            "Nhền Nhện Con \\u002F Cắn Xé",
+            "Kén Nhện \\u002F Đánh Đu",
+            "Nhện Chúa",
+            "passive:{name:"
+        ]
+    },
+    {
+        "name": "Evelynn",
+        "abilities": [
+            "Gai Căm Hận",
+            "Khêu Gợi",
+            "Quất Roi",
+            "Hắc Ám Bùng Nổ",
+            "Yêu Ảnh"
+        ]
+    },
+    {
+        "name": "Ezreal",
+        "abilities": [
+            "Phát Bắn Thần Bí",
+            "Tinh Hoa Tuôn Chảy",
+            "Dịch Chuyển Cổ Học",
+            "Cung Ánh Sáng",
+            "Pháp Lực Gia Tăng"
+        ]
+    },
+    {
+        "name": "Fiddlesticks",
+        "abilities": [
+            "Khiếp Hãi",
+            "Bội Thu",
+            "Gặt",
+            "Bão Quạ",
+            "Bù Nhìn Vô Hại"
+        ]
+    },
+    {
+        "name": "Fiora",
+        "abilities": [
+            "Lao Tới",
+            "Phản Đòn",
+            "Nhất Kiếm Nhị Dụng",
+            "Đại Thử Thách",
+            "Vũ Điệu Kiếm Sư"
+        ]
+    },
+    {
+        "name": "Fizz",
+        "abilities": [
+            "Đâm Lao",
+            "Đinh Ba Hải Thạch",
+            "Tung Tăng \\u002F Nhảy Múa",
+            "Triệu Hồi Thủy Quái",
+            "Chiến Binh Lanh Lợi"
+        ]
+    },
+    {
+        "name": "Galio",
+        "abilities": [
+            "Đôi Cánh Chiến Trận",
+            "Lá Chắn Durand",
+            "Cú Đấm Công Lý",
+            "Siêu Hùng Giáng Thế",
+            "Cú Nện Khổng Lồ"
+        ]
+    },
+    {
+        "name": "Gangplank",
+        "abilities": [
+            "Đàm Phán",
+            "Bổ Sung Vitamin",
+            "Thùng Thuốc Súng",
+            "Mưa Đại Bác",
+            "Thử Lửa"
+        ]
+    },
+    {
+        "name": "Garen",
+        "abilities": [
+            "Đòn Quyết Định",
+            "Lòng Can Đảm",
+            "Phán Quyết",
+            "Công Lý Demacia",
+            "Bền Bỉ"
+        ]
+    },
+    {
+        "name": "Gnar",
+        "abilities": [
+            "Ném Boomerang \\u002F Ném Đá",
+            "Quá Khích \\u002F Đập Phá",
+            "Nhún Nhảy \\u002F Nghiền Nát",
+            "GNAR!",
+            "Đột Biến Gien"
+        ]
+    },
+    {
+        "name": "Gragas",
+        "abilities": [
+            "Lăn Thùng Rượu",
+            "Say Quá Hóa Cuồng",
+            "Lăn Bụng",
+            "Thùng Rượu Nổ",
+            "Giờ Khuyến Mãi"
+        ]
+    },
+    {
+        "name": "Graves",
+        "abilities": [
+            "Đạn Xuyên Mục Tiêu",
+            "Bom Mù",
+            "Rút Súng Nhanh",
+            "Đạn Nổ Thần Công",
+            "Vận Mệnh Thay Đổi"
+        ]
+    },
+    {
+        "name": "Gwen",
+        "abilities": [
+            "Xoẹt Xoẹt!",
+            "Sương Lam Bất Bại",
+            "Xén Xén",
+            "Xe Chỉ Luồn Kim",
+            "Ngàn Nhát Cắt"
+        ]
+    },
+    {
+        "name": "Hecarim",
+        "abilities": [
+            "Càn Quét",
+            "Nhiếp Hồn Trận",
+            "Vó Ngựa Hủy Diệt",
+            "Bóng Ma Kị Sĩ",
+            "Đường Ra Trận"
+        ]
+    },
+    {
+        "name": "Heimerdinger",
+        "abilities": [
+            "Ụ Súng Tân Tiến H-28G",
+            "Tên Lửa Hextech Cỡ Nhỏ",
+            "Lựu Đạn Bão Điện Tử CH-2",
+            "NÂNG CẤP!!!",
+            "Cơ Giới Ma Pháp"
+        ]
+    },
+    {
+        "name": "Illaoi",
+        "abilities": [
+            "Xúc Tu Tàn Phá",
+            "Lời Răn Khắc Nghiệt",
+            "Thử Thách Linh Hồn",
+            "Bước Nhảy Niềm Tin",
+            "Tiên Tri Thượng Thần"
+        ]
+    },
+    {
+        "name": "Irelia",
+        "abilities": [
+            "Đâm Kiếm",
+            "Vũ Điệu Thách Thức",
+            "Bước Nhảy Hoàn Vũ",
+            "Thanh Kiếm Tiên Phong",
+            "Ý Chí Ionia"
+        ]
+    },
+    {
+        "name": "Ivern",
+        "abilities": [
+            "Rễ Rắc Rối",
+            "Kiến Tạo Bụi",
+            "Hạt Hư Hỏng",
+            "Daisy!",
+            "Người Bạn Của Rừng Già"
+        ]
+    },
+    {
+        "name": "Janna",
+        "abilities": [
+            "Gió Lốc",
+            "Gió Tây",
+            "Mắt Bão",
+            "Gió Mùa",
+            "Thuận Gió"
+        ]
+    },
+    {
+        "name": "JarvanIV",
+        "abilities": [
+            "Giáng Long Kích",
+            "Hoàng Kim Giáp",
+            "Hoàng Kỳ Demacia",
+            "Đại Địa Chấn",
+            "Thương Thuật"
+        ]
+    },
+    {
+        "name": "Jax",
+        "abilities": [
+            "Nhảy Và Nện",
+            "Vận Sức",
+            "Phản Công",
+            "Sức Mạnh Bậc Thầy",
+            "Không Khoan Nhượng"
+        ]
+    },
+    {
+        "name": "Jayce",
+        "abilities": [
+            "Chỉ Thiên! \\u002F Cầu Sấm",
+            "Sấm Chớp Rền Vang \\u002F Tích Tụ",
+            "Lôi Phạt \\u002F Cổng Tăng Tốc",
+            "Pháo Thủy Ngân \\u002F Búa Thủy Ngân",
+            "Tụ Điện Hextech"
+        ]
+    },
+    {
+        "name": "Jhin",
+        "abilities": [
+            "Lựu Đạn Nhảy Múa",
+            "Nét Vẽ Chết Chóc",
+            "Cạm Bẫy Nghệ Thuật",
+            "Sân Khấu Tử Thần",
+            "Lời Thì Thầm"
+        ]
+    },
+    {
+        "name": "Jinx",
+        "abilities": [
+            "Tráo Hàng!",
+            "Giật Bắn!",
+            "Lựu Đạn Ma Hỏa!",
+            "Tên Lửa Đạn Đạo Siêu Khủng Khiếp!",
+            "Hưng Phấn!"
+        ]
+    },
+    {
+        "name": "Kaisa",
+        "abilities": [
+            "Cơn Mưa Icathia",
+            "Tia Truy Kích",
+            "Tích Tụ Năng Lượng",
+            "Bản Năng Sát Thủ",
+            "Vỏ Bọc Cộng Sinh"
+        ]
+    },
+    {
+        "name": "Kalista",
+        "abilities": [
+            "Đâm Xuyên",
+            "Hồn Ma Do Thám",
+            "Giày Vò",
+            "Định Mệnh Vẫy Gọi",
+            "Phong Thái Quân Nhân"
+        ]
+    },
+    {
+        "name": "Karma",
+        "abilities": [
+            "Nội Hỏa",
+            "Chuyên Tâm",
+            "Linh Giáp",
+            "Kinh Mantra",
+            "Tụ Hỏa"
+        ]
+    },
+    {
+        "name": "Karthus",
+        "abilities": [
+            "Tàn Phá",
+            "Bức Tường Đau Đớn",
+            "Ô Uế",
+            "Khúc Cầu Hồn",
+            "Từ Chối Tử Thần"
+        ]
+    },
+    {
+        "name": "Kassadin",
+        "abilities": [
+            "Quả Cầu Hư Không",
+            "Lưỡi Kiếm Âm Ti",
+            "Áp Suất Hư Không",
+            "Hư Vô Bộ Pháp",
+            "Đá Hư Không"
+        ]
+    },
+    {
+        "name": "Katarina",
+        "abilities": [
+            "Phi Dao",
+            "Tung Hứng",
+            "Ám Sát",
+            "Bông Sen Tử Thần",
+            "Tham Lam"
+        ]
+    },
+    {
+        "name": "Kayle",
+        "abilities": [
+            "Hào Quang Trừng Phạt",
+            "Thiên Giới Ban Phước",
+            "Kiếm Tinh Hỏa",
+            "Thần Linh Định Đoạt",
+            "Thượng Nhân Cảnh Giới"
+        ]
+    },
+    {
+        "name": "Kayn",
+        "abilities": [
+            "Trảm",
+            "Phá",
+            "Bộ",
+            "Nhập",
+            "Lưỡi Hái Darkin"
+        ]
+    },
+    {
+        "name": "Kennen",
+        "abilities": [
+            "Phi Tiêu Sét",
+            "Giật Sét",
+            "Tốc Độ Sấm Sét",
+            "Bão Sấm Sét",
+            "Dấu Ấn Sấm Sét"
+        ]
+    },
+    {
+        "name": "Khazix",
+        "abilities": [
+            "Nếm Mùi Sợ Hãi",
+            "Gai Hư Không",
+            "Nhảy",
+            "Đột Kích Hư Không",
+            "Hiểm Họa Tiềm Tàng"
+        ]
+    },
+    {
+        "name": "Kindred",
+        "abilities": [
+            "Vũ Điệu Xạ Tiễn",
+            "Sói Cuồng Loạn",
+            "Sợ Hãi Dâng Trào",
+            "Cừu Cứu Sinh",
+            "Đồng Nguyên Ấn"
+        ]
+    },
+    {
+        "name": "Kled",
+        "abilities": [
+            "Dây Thừng Bẫy Gấu",
+            "Khuynh Hướng Bạo Lực",
+            "Cưỡi Ngựa Đấu Thương",
+            "XUNG PHONGGGG!!!",
+            "Skaarl Thằn Lằn Hèn Nhát"
+        ]
+    },
+    {
+        "name": "KogMaw",
+        "abilities": [
+            "Phun Axít",
+            "Cao Xạ Ma Pháp",
+            "Dung Dịch Hư Không",
+            "Pháo Sinh Học",
+            "Bất Ngờ Từ Icathia"
+        ]
+    },
+    {
+        "name": "Leblanc",
+        "abilities": [
+            "Ấn Ác Ý",
+            "Biến Ảnh",
+            "Sợi Xích Siêu Phàm",
+            "Mô Phỏng",
+            "Ảo Ảnh"
+        ]
+    },
+    {
+        "name": "LeeSin",
+        "abilities": [
+            "Sóng Âm \\u002F Vô Ảnh Cước",
+            "Hộ Thể \\u002F Kiên Định",
+            "Địa Chấn \\u002F Dư Chấn",
+            "Nộ Long Cước",
+            "Loạn Đả"
+        ]
+    },
+    {
+        "name": "Leona",
+        "abilities": [
+            "Khiên Mặt Trời",
+            "Nhật Thực",
+            "Thiên Đỉnh Kiếm",
+            "Thái Dương Hạ San",
+            "Ánh Sáng Mặt Trời"
+        ]
+    },
+    {
+        "name": "Lillia",
+        "abilities": [
+            "Trượng Hoa Xoay Tròn",
+            "Nện Cái Nè!",
+            "Hạt Lăn Lóc",
+            "Khúc Ru Rừng Thẳm",
+            "Quyền Trượng Mộng Mị"
+        ]
+    },
+    {
+        "name": "Lissandra",
+        "abilities": [
+            "Mảnh Băng",
+            "Vòng Tròn Lạnh Giá",
+            "Con Đường Băng Giá",
+            "Hầm Mộ Hàn Băng",
+            "Uy Quyền Băng Tộc"
+        ]
+    },
+    {
+        "name": "Lucian",
+        "abilities": [
+            "Tia Sáng Xuyên Thấu",
+            "Tia Sáng Rực Cháy",
+            "Truy Cùng Diệt Tận",
+            "Thanh Trừng",
+            "Xạ Thủ Ánh Sáng"
+        ]
+    },
+    {
+        "name": "Lulu",
+        "abilities": [
+            "Ngọn Thương Ánh Sáng",
+            "Biến Hóa",
+            "Giúp Nào Pix!",
+            "Khổng Lồ Hóa",
+            "Bạn Đồng Hành Pix"
+        ]
+    },
+    {
+        "name": "Lux",
+        "abilities": [
+            "Khóa Ánh Sáng",
+            "Lăng Kính Phòng Hộ",
+            "Quả Cầu Ánh Sáng",
+            "Cầu Vồng Tối Thượng",
+            "Chớp Lửa Soi Rọi"
+        ]
+    },
+    {
+        "name": "Malphite",
+        "abilities": [
+            "Mảnh Vỡ Địa Chấn",
+            "Nắm Đấm Chấn Động",
+            "Dậm Đất",
+            "Không Thể Cản Phá",
+            "Giáp Hoa Cương"
+        ]
+    },
+    {
+        "name": "Malzahar",
+        "abilities": [
+            "Tiếng Gọi Hư Không",
+            "Bầy Bọ Hư Không",
+            "Ám Ảnh Kinh Hoàng",
+            "Âm Ti Trói Buộc",
+            "Chuyển Đổi Hư Không"
+        ]
+    },
+    {
+        "name": "Maokai",
+        "abilities": [
+            "Bụi Cây Công Kích",
+            "Phi Thân Biến Dị",
+            "Ném Chồi Non",
+            "Quyền Lực Thiên Nhiên",
+            "Ma Pháp Nhựa Cây"
+        ]
+    },
+    {
+        "name": "MasterYi",
+        "abilities": [
+            "Tuyệt Kỹ Alpha",
+            "Thiền",
+            "Võ Thuật Wuju",
+            "Chiến Binh Sơn Cước",
+            "Chém Đôi"
+        ]
+    },
+    {
+        "name": "MissFortune",
+        "abilities": [
+            "Bắn Một Được Hai",
+            "Sải Bước",
+            "Mưa Đạn",
+            "Bão Đạn",
+            "Đánh Yêu"
+        ]
+    },
+    {
+        "name": "MonkeyKing",
+        "abilities": [
+            "Thiết Bảng Ngàn Cân",
+            "Chiến Binh Tinh Quái",
+            "Cân Đẩu Vân",
+            "Lốc Xoáy",
+            "Mình Đồng Da Sắt"
+        ]
+    },
+    {
+        "name": "Mordekaiser",
+        "abilities": [
+            "Chùy Hủy Diệt",
+            "Giáp Bất Diệt",
+            "Bàn Tay Chết Chóc",
+            "Vương Quốc Tử Vong",
+            "Hắc Ám Lan Tràn"
+        ]
+    },
+    {
+        "name": "Morgana",
+        "abilities": [
+            "Khóa Bóng Tối",
+            "Vùng Đất Chết",
+            "Khiên Đen",
+            "Trói Hồn",
+            "Lực Hút Tâm Linh"
+        ]
+    },
+    {
+        "name": "Nami",
+        "abilities": [
+            "Thủy Ngục",
+            "Thủy Triều",
+            "Ước Nguyện Tiên Cá",
+            "Sóng Thần",
+            "Dậy Sóng"
+        ]
+    },
+    {
+        "name": "Nasus",
+        "abilities": [
+            "Quyền Trượng Linh Hồn",
+            "Lão Hóa",
+            "Lửa Tâm Linh",
+            "Cơn Thịnh Nộ Sa Mạc",
+            "Kẻ Nuốt Chửng Linh Hồn"
+        ]
+    },
+    {
+        "name": "Nautilus",
+        "abilities": [
+            "Phóng Mỏ Neo",
+            "Cơn Giận Của Người Khổng Lồ",
+            "Thủy Triều Dữ Dội",
+            "Thủy Lôi Tầm Nhiệt",
+            "Mỏ Neo Ngàn Cân"
+        ]
+    },
+    {
+        "name": "Neeko",
+        "abilities": [
+            "Pháo Hạt",
+            "Phân Hình",
+            "Xoắn Trói",
+            "Nổ Hoa",
+            "Huyền Ảnh"
+        ]
+    },
+    {
+        "name": "Nidalee",
+        "abilities": [
+            "Phóng Lao \\u002F Cắn Xé",
+            "Bẫy Rập \\u002F Vồ",
+            "Sức Mạnh Hoang Dã \\u002F Vả",
+            "Lốt Báo",
+            "Rình Rập"
+        ]
+    },
+    {
+        "name": "Nocturne",
+        "abilities": [
+            "Thanh Gươm Bóng Tối",
+            "Bóng Đen Bao Phủ",
+            "Nỗi Kinh Hoàng Tột Độ",
+            "Hoang Tưởng",
+            "Lưỡi Dao Bóng Tối"
+        ]
+    },
+    {
+        "name": "Nunu",
+        "abilities": [
+            "Nuốt Chửng",
+            "Cầu Tuyết Trong Truyền Thuyết",
+            "Pháo Tuyết",
+            "Tuyệt Đỉnh Băng Giá",
+            "Tiếng Gọi Nơi Băng Giá"
+        ]
+    },
+    {
+        "name": "Olaf",
+        "abilities": [
+            "Phóng Rìu",
+            "Rìu Máu",
+            "Bổ Củi",
+            "Tận Thế Ragnarok",
+            "Điên Cuồng"
+        ]
+    },
+    {
+        "name": "Orianna",
+        "abilities": [
+            "Lệnh: Tấn Công",
+            "Lệnh: Phát Sóng",
+            "Lệnh: Bảo Vệ",
+            "Lệnh: Sóng Âm",
+            "Lên Dây Cót"
+        ]
+    },
+    {
+        "name": "Ornn",
+        "abilities": [
+            "Núi Lửa Phun Trào",
+            "Thổi Bễ",
+            "Xung Kích Bỏng Cháy",
+            "Hỏa Dương Hiệu Triệu",
+            "Chế Tạo Tại Chỗ"
+        ]
+    },
+    {
+        "name": "Pantheon",
+        "abilities": [
+            "Ngọn Giáo Sao Băng",
+            "Khiên Trời Giáng",
+            "Tiến Công Vũ Bão",
+            "Trời Sập",
+            "Chiến Ý"
+        ]
+    },
+    {
+        "name": "Poppy",
+        "abilities": [
+            "Búa Chấn Động",
+            "Không Thể Lay Chuyển",
+            "Xung Phong",
+            "Sứ Giả Phán Quyết",
+            "Sứ Giả Thép"
+        ]
+    },
+    {
+        "name": "Pyke",
+        "abilities": [
+            "Đâm Thấu Xương",
+            "Lặn Mất Tăm",
+            "Dòng Nước Ma Quái",
+            "Tử Thần Đáy Sâu",
+            "Quà Của Kẻ Chết Đuối"
+        ]
+    },
+    {
+        "name": "Qiyana",
+        "abilities": [
+            "Nguyên Tố Thịnh Nộ \\u002F Nhát Chém Nguyên Tố",
+            "Mượn Lực Địa Hình",
+            "Táo Bạo",
+            "Thế Giới Bùng Nổ",
+            "Đặc Quyền Hoàng Gia"
+        ]
+    },
+    {
+        "name": "Quinn",
+        "abilities": [
+            "Không Kích",
+            "Ưng Nhãn",
+            "Đột Kích",
+            "Đi Qua Đồn Địch",
+            "Chim Săn Mồi"
+        ]
+    },
+    {
+        "name": "Rakan",
+        "abilities": [
+            "Phi Tiêu Lấp Lánh",
+            "Xuất Hiện Hoàng Tráng",
+            "Điệu Nhảy Tiếp Viện",
+            "Bộ Pháp Thần Tốc",
+            "Bộ Cánh Ma Thuật"
+        ]
+    },
+    {
+        "name": "Rammus",
+        "abilities": [
+            "Quả Cầu Tốc Độ",
+            "Thế Thủ",
+            "Khiêu Khích Điên Cuồng",
+            "Cú Nhảy Chấn Động",
+            "Vỏ Gai"
+        ]
+    },
+    {
+        "name": "RekSai",
+        "abilities": [
+            "Nữ Hoàng Phẫn Nộ \\u002F Săn Mồi",
+            "Độn Thổ \\u002F Trồi Lên",
+            "Ngồm Ngoàm Ngấu Nghiến \\u002F Đào Hầm",
+            "Tốc Hành Hư Không",
+            "Cơn Thịnh Nộ Của Xer'Sai"
+        ]
+    },
+    {
+        "name": "Rell",
+        "abilities": [
+            "Xuyên Tâm Kích",
+            "Hắc Kim Thuật: Chiến Giáp",
+            "Liên Kết Từ Trường",
+            "Sức Hút Kinh Hoàng",
+            "Phá Vỡ Khuôn Phép"
+        ]
+    },
+    {
+        "name": "Renekton",
+        "abilities": [
+            "Vũ Điệu Cá Sấu",
+            "Kẻ Săn Mồi Tàn Nhẫn",
+            "Cắt và Xắt",
+            "Thần Cá Sấu",
+            "Đế Chế Cuồng Nộ"
+        ]
+    },
+    {
+        "name": "Rengar",
+        "abilities": [
+            "Tàn Ác",
+            "Tiếng Gầm Chiến Trận",
+            "Cú Ném Bola",
+            "Khao Khát Săn Mồi",
+            "Thú Săn Mồi Lẩn Khuất"
+        ]
+    },
+    {
+        "name": "Riven",
+        "abilities": [
+            "Tam Bộ Kiếm",
+            "Kình Lực",
+            "Anh Dũng",
+            "Lưỡi Kiếm Lưu Đày",
+            "Kiếm Cổ Ngữ"
+        ]
+    },
+    {
+        "name": "Rumble",
+        "abilities": [
+            "Súng Phun Lửa",
+            "Khiên Phế Liệu",
+            "Lao Móc Điện",
+            "Mưa Tên Lửa",
+            "Khổng Lồ Bãi Rác"
+        ]
+    },
+    {
+        "name": "Ryze",
+        "abilities": [
+            "Quá Tải",
+            "Ngục Cổ Ngữ",
+            "Dòng Chảy Ma Pháp",
+            "Vòng Xoáy Không Gian",
+            "Bậc Thầy Cổ Thuật"
+        ]
+    },
+    {
+        "name": "Samira",
+        "abilities": [
+            "Ứng Biến",
+            "Lốc Kiếm",
+            "Đánh Liều",
+            "Hỏa Ngục Liên Xạ",
+            "Thích Thể Hiện"
+        ]
+    },
+    {
+        "name": "Sejuani",
+        "abilities": [
+            "Đột Kích Băng Giá",
+            "Mùa Đông Thịnh Nộ",
+            "Băng Giá Vĩnh Cửu",
+            "Nhà Ngục Băng Giá",
+            "passive:{name:"
+        ]
+    },
+    {
+        "name": "Senna",
+        "abilities": [
+            "Bóng Tối Xuyên Thấu",
+            "Ràng Buộc",
+            "Lời Nguyền Sương Đen",
+            "Hắc Ám Soi Rọi",
+            "Giải Thoát"
+        ]
+    },
+    {
+        "name": "Seraphine",
+        "abilities": [
+            "Nốt Cao",
+            "Thanh Âm Bao Phủ",
+            "Đổi Nhịp",
+            "Khúc Ca Lan Tỏa",
+            "Nữ Hoàng Sân Khấu"
+        ]
+    },
+    {
+        "name": "Sett",
+        "abilities": [
+            "Không Trượt Phát Nào",
+            "Cuồng Thú Quyền",
+            "Song Thú Chưởng",
+            "Hủy Diệt Đấu Trường",
+            "Vua Đấu Trường"
+        ]
+    },
+    {
+        "name": "Shaco",
+        "abilities": [
+            "Lừa Gạt",
+            "Hộp Hề Ma Quái",
+            "Dao Độc",
+            "Phân Thân",
+            "Đâm Lén"
+        ]
+    },
+    {
+        "name": "Shen",
+        "abilities": [
+            "Công Kích Hoàng Hôn",
+            "Bảo Hộ Linh Hồn",
+            "Vô Ảnh Bộ",
+            "Nhất Thống",
+            "Lá Chắn Kiếm Khí"
+        ]
+    },
+    {
+        "name": "Shyvana",
+        "abilities": [
+            "Song Long Thủ",
+            "Rực Cháy",
+            "Hơi Thở Của Rồng",
+            "Hóa Rồng",
+            "Cuồng Nộ Long Nhân"
+        ]
+    },
+    {
+        "name": "Singed",
+        "abilities": [
+            "Phun Khói Độc",
+            "Keo Siêu Dính",
+            "Hất",
+            "Thuốc Hóa Điên",
+            "Xé Gió"
+        ]
+    },
+    {
+        "name": "Sion",
+        "abilities": [
+            "Cú Nện Tàn Khốc",
+            "Lò Luyện Linh Hồn",
+            "Sát Nhân Hống",
+            "Bất Khả Kháng Cự",
+            "Vinh Quang Tử Sĩ"
+        ]
+    },
+    {
+        "name": "Sivir",
+        "abilities": [
+            "Gươm Boomerang",
+            "Nảy Bật",
+            "Khiên Chống Phép",
+            "Săn Đuổi",
+            "Bước Chân Thần Tốc"
+        ]
+    },
+    {
+        "name": "Skarner",
+        "abilities": [
+            "Nhát Chém Tinh Thể",
+            "Lớp Vỏ Tinh Thể",
+            "Đuôi Bọ Cạp",
+            "Giam Cầm",
+            "Tháp Tinh Thể"
+        ]
+    },
+    {
+        "name": "Sona",
+        "abilities": [
+            "Anh Hùng Ca",
+            "Giai Điệu Khích Lệ",
+            "Bản Nhạc Tốc Độ",
+            "Khúc Cao Trào",
+            "Sức Mạnh Hợp Âm"
+        ]
+    },
+    {
+        "name": "Soraka",
+        "abilities": [
+            "Vẫn Tinh",
+            "Tinh Tú Hộ Mệnh",
+            "Điểm Phân Cực",
+            "Nguyện Ước",
+            "Cứu Rỗi"
+        ]
+    },
+    {
+        "name": "Swain",
+        "abilities": [
+            "Bàn Tay Tử Thần",
+            "Tầm Nhìn Bá Chủ",
+            "Trói Buộc",
+            "Hóa Quỷ",
+            "Bầy Quạ Tham Lam"
+        ]
+    },
+    {
+        "name": "Sylas",
+        "abilities": [
+            "Quật Xích",
+            "Đồ Vương",
+            "Trốn \\u002F Bắt",
+            "Tước Đoạt",
+            "Kháng Ma Thuật"
+        ]
+    },
+    {
+        "name": "Syndra",
+        "abilities": [
+            "Quả Cầu Bóng Tối",
+            "Ý Lực",
+            "Quét Tan Kẻ Yếu",
+            "Bùng Nổ Sức Mạnh",
+            "Tối Thượng"
+        ]
+    },
+    {
+        "name": "TahmKench",
+        "abilities": [
+            "Roi Lưỡi",
+            "Đánh Chén",
+            "Da Dày",
+            "Du Ngoạn Thủy Vực",
+            "Khẩu Vị Độc Đáo"
+        ]
+    },
+    {
+        "name": "Taliyah",
+        "abilities": [
+            "Phi Thạch",
+            "Quăng Địa Chấn",
+            "Tấm Thảm Bất Ổn",
+            "Mặt Đất Dậy Sóng",
+            "Lướt Tường"
+        ]
+    },
+    {
+        "name": "Talon",
+        "abilities": [
+            "Ngoại Giao Kiểu Noxus",
+            "Ám Khí",
+            "Con Đường Thích Khách",
+            "Sát Thủ Vô Hình",
+            "Lưỡi Dao Kết Liễu"
+        ]
+    },
+    {
+        "name": "Taric",
+        "abilities": [
+            "Ánh Sáng Tinh Tú",
+            "Pháo Đài Kiên Cố",
+            "Chói Lóa",
+            "Vũ Trụ Rạng Ngời",
+            "Can Đảm"
+        ]
+    },
+    {
+        "name": "Teemo",
+        "abilities": [
+            "Phi Tiêu Mù",
+            "Chạy Lẹ",
+            "Bắn Độc",
+            "Bẫy Độc",
+            "Chiến Tranh Du Kích"
+        ]
+    },
+    {
+        "name": "Thresh",
+        "abilities": [
+            "Án Tử",
+            "Con Đường Tăm Tối",
+            "Lưỡi Hái Xoáy",
+            "Đóng Hộp",
+            "Đọa Đầy"
+        ]
+    },
+    {
+        "name": "Tristana",
+        "abilities": [
+            "Súng Liên Thanh",
+            "Phóng Nhảy Tên Lửa",
+            "Bọc Thuốc Súng",
+            "Đại Bác Đẩy Lùi",
+            "Ngắm Bắn"
+        ]
+    },
+    {
+        "name": "Trundle",
+        "abilities": [
+            "Nhai Nuốt",
+            "Vương Quốc Băng Hàn",
+            "Cột Băng",
+            "Chinh Phục",
+            "Cống Phẩm Đại Vương"
+        ]
+    },
+    {
+        "name": "Tryndamere",
+        "abilities": [
+            "Say Máu",
+            "Tiếng Thét Uy Hiếp",
+            "Chém Xoáy",
+            "Từ Chối Tử Thần",
+            "Cuồng Nộ Chiến Trường"
+        ]
+    },
+    {
+        "name": "TwistedFate",
+        "abilities": [
+            "Phi Bài",
+            "Chọn Bài",
+            "Tráo Bài",
+            "Định Mệnh",
+            "Gian Lận"
+        ]
+    },
+    {
+        "name": "Twitch",
+        "abilities": [
+            "Đột Kích",
+            "Độc Suy Nhược",
+            "Nhiễm Khuẩn",
+            "Nhắm Mắt Bắn Bừa",
+            "Độc Chết Người"
+        ]
+    },
+    {
+        "name": "Udyr",
+        "abilities": [
+            "Võ Hổ",
+            "Võ Rùa",
+            "Võ Gấu",
+            "Võ Phượng Hoàng",
+            "Linh Hầu"
+        ]
+    },
+    {
+        "name": "Urgot",
+        "abilities": [
+            "Lựu Đạn Ăn Mòn",
+            "Càn Quét",
+            "Khinh Thị",
+            "Mũi Khoan Tử Thần",
+            "Đại Bác Cộng Hưởng"
+        ]
+    },
+    {
+        "name": "Varus",
+        "abilities": [
+            "Mũi Tên Xuyên Phá",
+            "Tên Độc",
+            "Mưa Tên",
+            "Sợi Xích Tội Lỗi",
+            "Sức Mạnh Báo Thù"
+        ]
+    },
+    {
+        "name": "Vayne",
+        "abilities": [
+            "Nhào Lộn",
+            "Mũi Tên Bạc",
+            "Kết Án",
+            "Giờ Khắc Cuối Cùng",
+            "passive:{name:"
+        ]
+    },
+    {
+        "name": "Veigar",
+        "abilities": [
+            "Điềm Gở",
+            "Thiên Thạch Đen",
+            "Bẻ Cong Không Gian",
+            "Vụ Nổ Vũ Trụ",
+            "Sức Mạnh Quỷ Quyệt"
+        ]
+    },
+    {
+        "name": "Velkoz",
+        "abilities": [
+            "Phân Hạch Plasma",
+            "Vết Rách Hư Không",
+            "Phá Vỡ Kết Cấu",
+            "Tia Phân Hủy Sự Sống",
+            "Phân Rã Hữu Cơ"
+        ]
+    },
+    {
+        "name": "Vi",
+        "abilities": [
+            "Cú Đấm Bùng Nổ",
+            "Cú Đấm Phá Giáp",
+            "Cú Đấm Xuyên Thấu",
+            "Tả Xung Hữu Đột",
+            "Giáp Chống Chất Nổ"
+        ]
+    },
+    {
+        "name": "Viego",
+        "abilities": [
+            "Lưỡi Gươm Suy Vong",
+            "Móng Vuốt Hắc Ám",
+            "Lãnh Thổ Sương Đen",
+            "Tuyệt Mệnh",
+            "Thống Trị Tối Cao"
+        ]
+    },
+    {
+        "name": "Viktor",
+        "abilities": [
+            "Chuyển Hóa Năng Lượng",
+            "Trường Trọng Lực",
+            "Tia Chết Chóc",
+            "Bão Điện Từ",
+            "Tiến Hóa Huy Hoàng"
+        ]
+    },
+    {
+        "name": "Vladimir",
+        "abilities": [
+            "Truyền Máu",
+            "Hồ Máu",
+            "Thủy Triều Máu",
+            "Máu Độc",
+            "Huyết Thệ"
+        ]
+    },
+    {
+        "name": "Volibear",
+        "abilities": [
+            "Sấm Động",
+            "Điên Cuồng Cắn Xé",
+            "Gọi Bão",
+            "Lôi Thần Giáng Thế",
+            "passive:{name:"
+        ]
+    },
+    {
+        "name": "Warwick",
+        "abilities": [
+            "Cắn Xé",
+            "Mùi Máu",
+            "Gầm Thét",
+            "Khóa Chết",
+            "Đói Khát"
+        ]
+    },
+    {
+        "name": "Xayah",
+        "abilities": [
+            "Phi Dao Đôi",
+            "Bộ Cánh Chết Người",
+            "Triệu Hồi Lông Vũ",
+            "Bão Tố Nổi Dậy",
+            "Nhát Cắt Gọn Gàng"
+        ]
+    },
+    {
+        "name": "Xerath",
+        "abilities": [
+            "Xung Kích Năng Lượng",
+            "Vụ Nổ Năng Lượng",
+            "Điện Tích Cầu",
+            "Nghi Thức Ma Pháp",
+            "Áp Xung Năng Lượng"
+        ]
+    },
+    {
+        "name": "XinZhao",
+        "abilities": [
+            "Liên Hoàn Tam Kích",
+            "Phong Lôi Thương",
+            "Can Trường",
+            "Bán Nguyệt Thương",
+            "Quyết Đoán"
+        ]
+    },
+    {
+        "name": "Yasuo",
+        "abilities": [
+            "Bão Kiếm",
+            "Tường Gió",
+            "Quét Kiếm",
+            "Trăn Trối",
+            "Đạo Của Lãng Khách"
+        ]
+    },
+    {
+        "name": "Yone",
+        "abilities": [
+            "Tử Kiếm",
+            "Trảm Hồn",
+            "Xuất Hồn",
+            "Đoạt Mệnh",
+            "Đạo Của Kẻ Săn"
+        ]
+    },
+    {
+        "name": "Yorick",
+        "abilities": [
+            "Tử Lễ",
+            "Vòng Tròn Tăm Tối",
+            "Màn Sương Than Khóc",
+            "Khúc Ca Hắc Ám",
+            "passive:{name:"
+        ]
+    },
+    {
+        "name": "Yuumi",
+        "abilities": [
+            "Mũi Tên Thơ Thẩn",
+            "Như Hình Với Bóng!",
+            "Tăng Động",
+            "Chương Cuối",
+            "Đánh Ra Khiên"
+        ]
+    },
+    {
+        "name": "Zac",
+        "abilities": [
+            "Bàn Tay Co Giãn",
+            "Chất Bất Ổn",
+            "Súng Cao Su",
+            "Nảy! Nảy! Nảy",
+            "Phân Bào"
+        ]
+    },
+    {
+        "name": "Zed",
+        "abilities": [
+            "Phi Tiêu Sắc Lẻm",
+            "Phân Thân Bóng Tối",
+            "Đường Kiếm Bóng Tối",
+            "Dấu Ấn Tử Thần",
+            "Khinh Thường Kẻ Yếu"
+        ]
+    },
+    {
+        "name": "Ziggs",
+        "abilities": [
+            "Bom Nảy",
+            "Gói Chất Nổ",
+            "Bãi Mìn",
+            "Siêu Bom Địa Ngục",
+            "Dễ Nổi Điên"
+        ]
+    },
+    {
+        "name": "Zilean",
+        "abilities": [
+            "Bom Hẹn Giờ",
+            "Rút Ngắn Thời Gian",
+            "Bẻ Cong Thời Gian",
+            "Đảo Ngược Thời Gian",
+            "Lọ Trữ Thời Gian"
+        ]
+    },
+    {
+        "name": "Zoe",
+        "abilities": [
+            "Nghịch Sao!",
+            "Kẻ Trộm Phép",
+            "Bong Bóng Ngủ",
+            "Vòng Xuyên Thấu",
+            "Lấp La Lấp Lánh!"
+        ]
+    },
+    {
+        "name": "Zyra",
+        "abilities": [
+            "Bó Gai Chết Chóc",
+            "Xum Xuê",
+            "Rễ Cây Trói Buộc",
+            "Bụi Gai Kỳ Dị",
+            "Khu Vườn Gai Góc"
+        ]
+    }
+]
